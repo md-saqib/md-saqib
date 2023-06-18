@@ -21,7 +21,6 @@ I am _Mohammed Saqib_ a self-taught Web Developer. I am fascinated by technology
 🌟 Contribute More
 
 ___
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=md-saqib&show_icons=true&layout=compact&title_color=fafbfc&text_color=949da5&icon_color=949da5&bg_color=0d1117&border_color=40474d&custom_title=Overview&hide=prs,contribs&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-saqib&count_private=true)](https://github.com/md-saqib)
 
