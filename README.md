@@ -68,8 +68,11 @@ I build systems that **scale**, **automate**, and **last**.
 
 <div align="center">
 
-<img height="170" src="https://raw.githubusercontent.com/md-saqib/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-<img height="170" src="https://raw.githubusercontent.com/md-saqib/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+<a href="https://raw.githubusercontent.com/md-saqib/github-stats/master/generated/overview.svg">
+<img height="170" src="https://raw.githubusercontent.com/md-saqib/github-stats/master/generated/overview.svg#gh-dark-mode-only" /></a>
+
+<a href="https://raw.githubusercontent.com/md-saqib/github-stats/master/generated/languages.svg">
+<img height="170" src="https://raw.githubusercontent.com/md-saqib/github-stats/master/generated/languages.svg#gh-dark-mode-only" /></a>
 
 </div>
 
