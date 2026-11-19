@@ -71,11 +71,11 @@ Outside the editor I write about web development, mobile apps, developer product
 
 ## ✦ Latest writing
 
-<!-- BLOG-POST-LIST:START -->- [Shipping Source Maps to Production Without Exposing Your Source](https://mdsaqib.is-a.dev/blogs/shipping-source-maps-production-expose-source/) <sub>· Nov 12, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Attributing LLM Cost per Feature in a Production Product](https://mdsaqib.is-a.dev/blogs/attributing-llm-cost-per-feature/) <sub>· Nov 19, 2026</sub>
+- [Shipping Source Maps to Production Without Exposing Your Source](https://mdsaqib.is-a.dev/blogs/shipping-source-maps-production-expose-source/) <sub>· Nov 12, 2026</sub>
 - [Working Within Android Background Execution Limits](https://mdsaqib.is-a.dev/blogs/working-android-background-execution-limits/) <sub>· Nov 10, 2026</sub>
 - [Editor LSP That Stays Responsive in a Large Monorepo](https://mdsaqib.is-a.dev/blogs/lsp-responsiveness-large-monorepo/) <sub>· Nov 2, 2026</sub>
 - [Fast TypeScript CLI startup with esbuild and lazy imports](https://mdsaqib.is-a.dev/blogs/fast-typescript-cli-startup/) <sub>· Oct 29, 2026</sub>
-- [Guardrails: Validating Input Before It Reaches the Model](https://mdsaqib.is-a.dev/blogs/input-guardrails-llm-validation/) <sub>· Oct 26, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://mdsaqib.is-a.dev/blogs/">All posts →</a></p>
